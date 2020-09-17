@@ -1,2 +1,2 @@
-# WWVB Clock
+# WWVB clock
  
